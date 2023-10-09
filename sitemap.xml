@@ -5,27 +5,27 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>index.html</loc>
-                 <lastmod>2023-10-09T05:06:12+00:00</lastmod>
+                 <loc>https://myhealthplanaccount.netlify.app/index.html</loc>
+                 <lastmod>2023-10-09T05:16:22+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>privacy-policy.html</loc>
-                 <lastmod>2023-10-09T05:06:12+00:00</lastmod>
+                 <loc>https://myhealthplanaccount.netlify.app/privacy-policy.html</loc>
+                 <lastmod>2023-10-09T05:16:22+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2023-10-09T05:06:12+00:00</lastmod>
+                 <loc>https://myhealthplanaccount.netlify.app/feed.xml</loc>
+                 <lastmod>2023-10-09T05:16:22+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2023-10-09T05:06:12+00:00</lastmod>
+                 <loc>https://myhealthplanaccount.netlify.app/sitemap.xml</loc>
+                 <lastmod>2023-10-09T05:16:22+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.html</loc>
-                 <lastmod>2023-10-09T05:06:12+00:00</lastmod>
+                 <loc>https://myhealthplanaccount.netlify.app/sitemap.html</loc>
+                 <lastmod>2023-10-09T05:16:22+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>about-us.html</loc>
-                 <lastmod>2023-10-09T05:06:12+00:00</lastmod>
+                 <loc>https://myhealthplanaccount.netlify.app/about-us.html</loc>
+                 <lastmod>2023-10-09T05:16:22+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
