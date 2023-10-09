@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://myhealthplanaccount.netlify.app/sitemap.xml
