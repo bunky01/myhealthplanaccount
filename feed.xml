@@ -18,68 +18,68 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-a{
-text-decoration: none!important;
-}
 footer *{
 font-size:16px !important;
 }
-.btn-md{
-padding: 15.1px 29.9px;
-border-radius: 0;
+.u25a0203e3561ed62c2f1f3ea96c64c59 a{
+font-size:16px;
 }
-*{
-font-family: 'Kumbh Sans', sans-serif;
+.y1df67cd961bbdfc0c1bf995bfd86023b:hover{
+box-shadow: 0 50.1px 50.1px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.u25a0203e3561ed62c2f1f3ea96c64c59 p,.u25a0203e3561ed62c2f1f3ea96c64c59 span,.u25a0203e3561ed62c2f1f3ea96c64c59 label{
+font-size:16px!important;
+}
+footer{
+background:#080808;
+color:#ffffff;
+}
+a{
+text-decoration: none!important;
+}
+.c6658745444540174404b7685c64df09b p,.c6658745444540174404b7685c64df09b a,.c6658745444540174404b7685c64df09b span,.c6658745444540174404b7685c64df09b label{
+font-size:16px!important;
+}
+.c6658745444540174404b7685c64df09b a,.u25a0203e3561ed62c2f1f3ea96c64c59 a{
+color:#0c0c0c!important;
+text-decoration: underline !important;
 }
 .nav-link{
 color: #000000!important;
 
 }
-.f2762c1efd55ff184715f1601d3e5613a p,.f2762c1efd55ff184715f1601d3e5613a a,.f2762c1efd55ff184715f1601d3e5613a span,.f2762c1efd55ff184715f1601d3e5613a label{
-font-size:16px!important;
+.f46f2b9047a573d62128044be50cf20ef{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+.btn-md{
+padding: 14.6px 29.5px;
+border-radius: 0;
+}
+html{
+scroll-behavior: smooth;
+}
+.nav-item{
+padding-left:8.2px;
+padding-right:7.6px;
+padding-top:5.2px;
+padding-bottom:5.1px;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.w0f7b4c8ab41efb11786fc242e45f189f a{
-font-size:16px;
-}
-.dade85fcd2791fe6a5782e2c7f9868f47:hover{
-box-shadow: 0 49.9px 50.2px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.nav-item{
-padding-left:8px;
-padding-right:8.4px;
-padding-top:4.9px;
-padding-bottom:4.8px;
-}
-.navbar a{
-font-size: 18px!important;
-font-weight: bold;
-}
-.w0f7b4c8ab41efb11786fc242e45f189f p,.w0f7b4c8ab41efb11786fc242e45f189f span,.w0f7b4c8ab41efb11786fc242e45f189f label{
-font-size:16px!important;
-}
 ul{
 list-style: circle;
 }
-.f2762c1efd55ff184715f1601d3e5613a a,.w0f7b4c8ab41efb11786fc242e45f189f a{
-color:#070707!important;
-text-decoration: underline !important;
+.navbar a{
+font-size: 17.6px!important;
+font-weight: bold;
 }
-footer{
-background:#030303;
-color:#ffffff;
-}
-.z36bd8ad33c5641bee11aeb46b6bcb2f1{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
-}
-html{
-scroll-behavior: smooth;
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
 </style>
 <script type="application/ld+json">
@@ -100,13 +100,13 @@ scroll-behavior: smooth;
 
 </script></head>
 <body>
-<nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="index.html"  ><img alt="img/myhealthplanaccountanthem2.png" src="img/myhealthplanaccountanthem2.png"  width="150px" ></a>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="https://myhealthplanaccount.netlify.app/index.html"  ><img alt="img/myhealthplanaccountanthem2.png" src="img/myhealthplanaccountanthem2.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="d-flex navbar-nav align-items-center ml-auto"><li class=" nav-item">
-<a class="ac03b8269bcec65e36599cd91a16905e3 nav-link" href="index.html"  >myhealthplanaccount.com anthem activate card</a>
-</li><li class="nav-item"><a class="ac03b8269bcec65e36599cd91a16905e3 nav-link" rel=nofollow href="about-us.html">About Us</a>
+<ul class="d-flex align-items-center navbar-nav ml-auto"><li class=" nav-item">
+<a class="nav-link x2dd323b37fcc6e76faa80aaa7cfa58fa" href="https://myhealthplanaccount.netlify.app/index.html"  >myhealthplanaccount.com anthem activate card</a>
+</li><li class="nav-item"><a class="nav-link x2dd323b37fcc6e76faa80aaa7cfa58fa" rel=nofollow href="https://myhealthplanaccount.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -174,9 +174,9 @@ This website is owned and published by:
 </section>
 <footer>
 <div class="py-4 container pt-5" >
-<div class="row"><div class="col-lg-3"><p><a class="ac03b8269bcec65e36599cd91a16905e3" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="ac03b8269bcec65e36599cd91a16905e3" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="ac03b8269bcec65e36599cd91a16905e3" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="row"><div class="col-lg-3"><p><a class="x2dd323b37fcc6e76faa80aaa7cfa58fa" href="https://myhealthplanaccount.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="x2dd323b37fcc6e76faa80aaa7cfa58fa" href="https://myhealthplanaccount.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="x2dd323b37fcc6e76faa80aaa7cfa58fa" href="https://myhealthplanaccount.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
